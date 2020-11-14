@@ -1,0 +1,2 @@
+# minfinhelp
+MinFin assistant
